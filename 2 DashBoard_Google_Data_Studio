@@ -1,0 +1,12 @@
+https://datastudio.google.com/reporting/f3b82578-7135-478f-8dd5-cc52d8fdcb22
+
+
+como já dito, segue o dashboard interativo que nao da pra compartilhar do power bi.
+
+Algumas observacoes a respeito
+1. a ferramenta de 'Principais Influenciadores' é algo massa do Power Bi, portanto, não tem no GDS infelizmente, então tive que adaptar colocando outras dimensões no
+gráfico de barras com a indicativa de média de vendas, onde se verifica que um dos seguimentos 'derruba' o valor médio das vendas
+2. O GDS não tem aquele gráfico que parece um funil, então tive que adaptar para a árvore de decisões que, de certa forma, atinge o objetivo que é mostrar o quão
+dominante é um dos setores em face dos outros.
+
+Era isso =D
